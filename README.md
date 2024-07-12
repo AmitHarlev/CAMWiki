@@ -78,27 +78,27 @@ We are allowed to "double dip" courses between requirements (as long as your com
 Different CAM students have drasticaly different opinions on certain courses so it is hard to label courses as "good" or "bad". However, there are courses that CAM students tend to register for. The best way to learn about courses is to ask older students or go to the mentoring program's "Get the scoop on classes" event hosted early in the Fall semester. Also, at the start of each semester we have everyone write which courses they are registered for on a whiteboard in the CAM space—perusing this is another great way to find interesting courses.
 
 Though we strongly encourage you to speak to other students to learn about courses, as a starting point, here is a short, non-exhaustive list (that we hope to grow over time) of common courses for CAM students:
-    - MATH 6210: Measure Theory & Lebesgue Integration
-    - MATH 6110: Real Analysis
-    - CS 4210/Math 4250 (crosslist): Numerical Analysis and Differential Equations
-    - CS 4220/Math 4260: Numerical Analysis: Linear and Nonlinear Problems
-    - CS 6210: Matrix Computations 
-    - MATH 6150/6160: PDE I/II (PDE I is not a prereq for PDE II)
-    - CS 6820: Analysis of Algorithms
-    - CS 6850: The Structure of Information Networks
-    - MATH 6230: Differential Games and Optimal Control
-    - MATH 6710/6720: Probability Theory I/II
-    - MATH 6730/6740: Mathematical Statistics I/II
-    - ORIE 6300: Mathematical Programming I
-    - ORIE 6500: Applied Stochastic Processes
-    - ORIE 6700: Statistical Principles
-    - Math 6270: Applied Dynamical Systems
+- MATH 6210: Measure Theory & Lebesgue Integration
+- MATH 6110: Real Analysis
+- CS 4210/Math 4250 (crosslist): Numerical Analysis and Differential Equations
+- CS 4220/Math 4260: Numerical Analysis: Linear and Nonlinear Problems
+- CS 6210: Matrix Computations 
+- MATH 6150/6160: PDE I/II (PDE I is not a prereq for PDE II)
+- CS 6820: Analysis of Algorithms
+- CS 6850: The Structure of Information Networks
+- MATH 6230: Differential Games and Optimal Control
+- MATH 6710/6720: Probability Theory I/II
+- MATH 6730/6740: Mathematical Statistics I/II
+- ORIE 6300: Mathematical Programming I
+- ORIE 6500: Applied Stochastic Processes
+- ORIE 6700: Statistical Principles
+- Math 6270: Applied Dynamical Systems
 
 ### Map of CAM Space and Desk Suggestions
 
 Here is a map of the CAM space annotated with notes about what desk areas are louder or quieter.
 
-![CAM Space Map](/images/CAMSpace.png)
+![CAM Space Map](/images/Cammap.png)
 
 The desk areas that are not circled also tend to be on the quieter side, but they are closer to the couch area and noise sometimes spills over from the couches into these areas. An email is sent out each summer with the list of available desks for you to choose from.
 
