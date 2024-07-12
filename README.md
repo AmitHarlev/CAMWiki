@@ -1,22 +1,18 @@
-# CAM Wiki
+# Information for First Year CAM Students
 
-### Topics to include (first year specific)
+This document was created by the CAM mentoring program. This year the mentoring program coordinators are Mayleen and Tayler (who are older and wiser) and Amit and Liam (who are younger and less wise). Feel free to reach out to any of us with any questions (or to your mentor after they have been assigned)!
 
-1. ~~Registering on Student Center~~
-2. ~~TA training dates heads up~~
-3. Booking CAM rooms for office hours
-4. ~~Course requirements~~ + recommendations
-5. ~~Minor requirements~~ + example minors
-6. Desk signup advice
-7. Mentoring program?
-8. Summer Funding/Finding an advisor/Finding an internship
-
+*Note*: there is also a (partially deprecated) [CAM Wiki](https://sites.google.com/cornell.edu/camwiki/home), which we hope to update soon.
 
 ### TA Training
 
-If you will be TAing in the Fall (<span style="color:green">TODO: check with Phil who exactly is required to go, as well as the dates for this year</span>.) you are required to attend the math department's TA training session **in person** the week before the semester starts. In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check. 
+If you will be TAing in the Fall you are required to attend the math department's TA training session **in person** the week before the semester starts. In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check. 
 
-(This is mostly being included here so that you don't book a flight for the day before classes start and need to move it later.)
+(This is mostly being included here so that first year students don't book flights for the day before classes start and need to move them later.)
+
+### Booking a Conference Room
+
+There are two conference rooms in the [CAM Space](#map-of-cam-space-and-desk-suggestions). You can book either of these rooms for any reason with common reasons including: TA office hours, reading groups, and meetings (zoom or in person). To book a room, add the shared Google calendar to your own calendar by visiting [this page](https://sites.google.com/cornell.edu/camwiki/cam-community-resources/room-reservations).
 
 ### Registering for Courses
 
@@ -57,22 +53,55 @@ At least three of the 8 courses must be numbered 6000 or above. These requiremen
 
 #### Additional Minor Requirement
 
-This is the most flexible of the three requirements since you get to choose your own minor. Unfortunately, there does not exist a cohesive list of available minors, nor do all minors have well documented requirements. The only thing that is certain is that if your minor committee member is willing to sign off on it, then it is okay.
+This is the most flexible of the three requirements since you get to choose your own minor. Unfortunately, there does not exist a cohesive list of available minors, nor do all minors have well documented requirements. The only thing that is certain is that if your minor committee member is willing to sign off on it, then it is okay. An easy way to learn more about which minors exist and what their requirements are is to ask older students who have passed their A-exam.
 
-Here is a list of common minors for CAM students:
+Here is a (very short and non-exhaustive) list of common minors for CAM students. We hope to grow out this list over time.
 1. Computer Science
     - Has well documented [requirements](https://www.cs.cornell.edu/phd/minor)
     - Requires 4 CS courses
 2. ORIE
-3. Statistics
+    - There are 3 variants of this minor: Applied Prob and Stats, Applied OR, and Mathematical Programming
+    - We are not currently aware of any documentation of the requirements, but we believe that it requires 3 courses
+4. Statistics
     - Has well documented [requirements](https://stat.cornell.edu/academics/phd/phd-minor-statistics)
     - Requires 5 courses
-4. Computational Science and Engineering
+5. Computational Science and Engineering
     - Flexible requirements (and they are not specified on the [minor page](https://gradschool.cornell.edu/academics/fields-of-study/field/computational-science-and-engineering-minor/))
-
+    - This is a very common CAM minor, so you should be able to find an older student that can tell you more about it
 
 #### Final Note
 
-We are allowed to "double dip" courses between requirements (as long as your committee members are okay with it). Thanks to this fact, it is usually possible to complete all of your requirements having taken only 8 courses, but doing so may require some planning. There is no benefit to doing this other than being done with course requirements sooner, which can be a pro or con depending on your own preferences.
+We are allowed to "double dip" courses between requirements (as long as your committee members are okay with it). Thanks to this fact, it is sometimes possible to complete all of your requirements having taken only 8 courses, but doing so may require some planning. There is no benefit to doing this other than being done with course requirements sooner, which can be a pro or a con depending on your own preferences.
 
 ### Course Recommendations
+
+Different CAM students have drasticaly different opinions on certain courses so it is hard to label courses as "good" or "bad". However, there are courses that CAM students tend to register for. The best way to learn about courses is to ask older students or go to the mentoring program's "Get the scoop on classes" event hosted early in the Fall semester. Also, at the start of each semester we have everyone write which courses they are registered for on a whiteboard in the CAM space—perusing this is another great way to find interesting courses.
+
+Though we strongly encourage you to speak to other students to learn about courses, as a starting point, here is a short, non-exhaustive list (that we hope to grow over time) of common courses for CAM students:
+    - MATH 6210: Measure Theory & Lebesgue Integration
+    - MATH 6110: Real Analysis
+    - CS 4210/Math 4250 (crosslist): Numerical Analysis and Differential Equations
+    - CS 4220/Math 4260: Numerical Analysis: Linear and Nonlinear Problems
+    - CS 6210: Matrix Computations 
+    - MATH 6150/6160: PDE I/II (PDE I is not a prereq for PDE II)
+    - CS 6820: Analysis of Algorithms
+    - CS 6850: The Structure of Information Networks
+    - MATH 6230: Differential Games and Optimal Control
+    - MATH 6710/6720: Probability Theory I/II
+    - MATH 6730/6740: Mathematical Statistics I/II
+    - ORIE 6300: Mathematical Programming I
+    - ORIE 6500: Applied Stochastic Processes
+    - ORIE 6700: Statistical Principles
+    - Math 6270: Applied Dynamical Systems
+
+### Map of CAM Space and Desk Suggestions
+
+Here is a map of the CAM space annotated with notes about what desk areas are louder or quieter.
+
+![CAM Space Map](/images/CAMSpace.png)
+
+The desk areas that are not circled also tend to be on the quieter side, but they are closer to the couch area and noise sometimes spills over from the couches into these areas. An email is sent out each summer with the list of available desks for you to choose from.
+
+### Plans for this document
+
+In the future, we plan to add information about graduate fellowships and finding advisors and summer jobs to this document. Until then, you should ask older students for advice on these topics.
