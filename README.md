@@ -6,7 +6,7 @@ This document was created by the CAM mentoring program. This year the mentoring 
 
 ### TA Training
 
-If you will be TAing in the Fall you are required to attend the math department's TA training session **in person** the week before the semester starts. In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check. 
+If you will be TAing in the Fall you are required to attend the math department's TA training session **in person** the week before the semester starts. In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check. This year's TA training (Fall 2024) is August 21 (afternoon), August 22 (afternoon) and August 23 (morning or afternoon).
 
 (This is mostly being included here so that first year students don't book flights for the day before classes start and need to move them later.)
 
