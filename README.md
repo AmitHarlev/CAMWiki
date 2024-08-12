@@ -94,14 +94,6 @@ Though we strongly encourage you to speak to other students to learn about cours
 - ORIE 6700: Statistical Principles
 - Math 6270: Applied Dynamical Systems
 
-### Map of CAM Space and Desk Suggestions
-
-Here is a map of the CAM space annotated with notes about what desk areas are louder or quieter.
-
-![CAM Space Map](/images/Cammap.png)
-
-The desk areas that are not circled also tend to be on the quieter side, but they are closer to the couch area and noise sometimes spills over from the couches into these areas. An email is sent out each summer with the list of available desks for you to choose from.
-
 ### Plans for this document
 
 In the future, we plan to add information about graduate fellowships and finding advisors and summer jobs to this document. Until then, you should ask older students for advice on these topics.
