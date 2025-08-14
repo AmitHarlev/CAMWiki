@@ -6,7 +6,7 @@ This document was created by the CAM mentoring program. This year the mentoring 
 
 ### TA Training
 
-If you will be TAing in the Fall you are required to attend the math department's TA training session **in person** the week before the semester starts (you will have gotten an email about this, probably from Marie). In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check.
+If you will be TAing in the Fall you are required to attend the math department's TA training session **in person** the week before the semester starts (you would have gotten an email about this, probably from Marie). In general, anyone not on a fellowship is TAing (look at your offer letter), but if you are unsure, you can email Phil Rusher to check.
 
 ### Booking a Conference Room
 
