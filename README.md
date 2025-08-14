@@ -1,6 +1,6 @@
 # Information for First Year CAM Students
 
-This document was created by the CAM mentoring program. This year the mentoring program coordinators are Mayleen and Tayler (who are older and wiser) and Amit and Liam (who are younger and less wise). Feel free to reach out to any of us with any questions (or to your mentor after they have been assigned)!
+This document was created by the CAM mentoring program. This year the mentoring program coordinators are Katerina and Amit. Feel free to reach out to either of us with any questions (or to your mentor after they have been assigned)!
 
 *Note*: there is also a (partially deprecated) [CAM Wiki](https://sites.google.com/cornell.edu/camwiki/home), which we hope to update soon.
 
