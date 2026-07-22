@@ -64,7 +64,7 @@ Here is a (very short and non-exhaustive) list of common minors for CAM students
     - Has well documented [requirements](https://stat.cornell.edu/academics/phd/phd-minor-statistics)
     - Requires 5 courses
 5. Computational Science and Engineering
-    - Flexible requirements (and they are not specified on the [minor page](https://gradschool.cornell.edu/academics/fields-of-study/field/computational-science-and-engineering-minor/))
+    - Flexible requirements (and they are not specified on the [minor page](https://courses.cornell.edu/graduate-school/computational-science-engineering-graduate-minor-field/))
     - This is a very common CAM minor, so you should be able to find an older student that can tell you more about it
 
 #### Final Note
